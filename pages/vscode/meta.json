@@ -1,4 +1,4 @@
 {
-  "backend": "Back-End Extension",
-  "frontend": "Front-End Extension"
+  "extension": "Extensions",
+  "snippet": "Snippets"
 }
