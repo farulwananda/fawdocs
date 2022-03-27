@@ -1,4 +1,5 @@
 {
   "index": "Welcome",
-  "vscode": "Visual Studio Code"
+  "vscode": "Visual Studio Code",
+  "framework": "Framework"
 }
